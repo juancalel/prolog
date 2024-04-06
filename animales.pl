@@ -1,4 +1,10 @@
-animal(oso, herviboro).
+animal(leon).
+animal(perro).
+animal(iguana).
+animal(gallina).
+animal(gato).
+animal(pato).
+animal(hipopotamo).
 animal(leon,carnivoro).
 animal(gato,carnivoro).
 animal(oso,carnivoro).
